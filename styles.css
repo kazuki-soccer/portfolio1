@@ -1,0 +1,54 @@
+
+@media (max-width: 576px) {
+
+.full-size {
+  display: none;
+}
+.menubtn {
+  display: block;
+}
+.w1000{
+  display: block;
+
+}
+#name {
+  font-size: 36px;
+}
+
+.intro-wrapper {
+  text-align: center;
+}
+.kazuki {
+  float: none;
+  margin: 0 auto 30px;
+  border-radius: 50%;
+}
+
+.intro-wrapper p {
+  font-size: 12px;
+}
+
+
+.row {
+  width: 100%;
+}
+
+.input {
+  padding: 0;
+}
+
+
+video {
+  display: none;
+}
+
+.cover {
+  background-color: rgba(239,239,240,0);
+}
+
+.header {
+  background: rgb(11, 178, 184);
+
+}
+
+}
