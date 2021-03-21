@@ -1,0 +1,65 @@
+
+@media (max-width: 576px) {
+
+.full-size {
+  display: none;
+}
+.menubtn {
+  display: block;
+}
+.w1000{
+  display: block;
+
+}
+#name {
+  font-size: 36px;
+}
+
+.intro-wrapper {
+  text-align: center;
+}
+.kazuki {
+  float: none;
+  margin: 0 auto 30px;
+  border-radius: 50%;
+  padding-left: 0px;
+  
+}
+
+.intro-wrapper p {
+  font-size: 12px;
+}
+
+
+.row {
+  width: 100%;
+}
+
+.input {
+  padding: 0;
+}
+
+
+video {
+  display: none;
+}
+
+.cover {
+  background-color: rgba(239,239,240,0);
+}
+
+.header {
+  background: rgb(11, 178, 184);
+
+}
+
+.head{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 102%;
+  padding: 15px 50px 15px 10px;
+  background-color: rgba(255, 255, 255, 0.3);
+  }
+
+}
